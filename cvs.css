@@ -1,0 +1,33 @@
+.droite{
+	   float: left;
+	   margin-top: 90px;
+ }
+
+img{widows: 330px;height: 
+130px;
+position: center;
+border-radius: 500px;
+}
+h2{
+	text-align: center;
+}
+.gauche{
+ float: right;
+ height: auto;
+}
+
+body{
+	background-color: lightblue;
+	padding: 60px;
+	margin;
+	width:auto;
+}
+.h1{
+	text-align: center;
+	font-size: 1px;
+	color: yellow;
+}
+.objectif{
+	line-height: center;
+	      
+}
